@@ -4,7 +4,7 @@
 
 🌐 **Browse with search and filters:** https://syntaxslicer.github.io/3d-print-toolbox/
 
-**136 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
+**137 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
 
 ## Contents
 
@@ -175,6 +175,7 @@
 - **[PrintBuddy](https://github.com/vmhomelab/printbuddy)** 🆓 🔓 🌐 — One self-hosted dashboard for mixed fleets — Bambu, Klipper/Moonraker and PrusaLink — with filament tracking and print history. Early development, not production-ready yet.
 - **[Printago](https://www.printago.io/)** 💶 🌐 🔑 — Cloud print-farm software built around Bambu printers (others too): automatic queue dispatch, slicing in the cloud, SKU-based order workflows for shops — no Raspberry Pi needed.
 - **[Mobileraker](https://github.com/Clon1998/mobileraker)** 💶 🔓 — Polished phone app for Klipper/Moonraker printers with push notifications, webcam and multi-printer support.
+- **[Printer Tools](https://printertools.app/)** 💶 — Native app for monitoring and managing printers from different brands in one place, with live print status, camera feeds and file management.
 - **[KlipperScreen](https://github.com/KlipperScreen/KlipperScreen)** 🆓 🔓 — Touchscreen UI for Klipper on a small HDMI/DSI display attached to the Pi.
 - **[Home Assistant Bambu Lab](https://github.com/greghesp/ha-bambulab)** 🆓 🔓 — Brings Bambu printers into Home Assistant: status, AMS, camera, automations like switching off the enclosure fan or light after a print.
 
