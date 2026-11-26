@@ -4,7 +4,7 @@
 
 🌐 **Browse with search and filters:** https://syntaxslicer.github.io/3d-print-toolbox/
 
-**136 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
+**137 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
 
 ## Contents
 
@@ -135,6 +135,7 @@
 - **[Meshy](https://www.meshy.ai/)** 💶 🌐 🔑 — Text- and image-to-3D with remeshing and repair. Free tier is limited and non-commercial. `STL · OBJ · GLB`
 - **[Tripo](https://www.tripo3d.ai/)** 💶 🌐 🔑 — Image- and text-to-3D with good topology and segmentation. Monthly free credits. `STL · OBJ · GLB`
 - **[Zoo Design Studio](https://zoo.dev/)** 💶 🌐 🔑 — Text-to-CAD and code-CAD (KCL) that outputs real B-rep geometry instead of meshes. `STEP · STL`
+- **[Stlify AI](https://stlify.ai/)** 💶 🌐 🪄 🔑 — Turns one photo into a printable model with millimeter sizing and an optional flat base. First model preview is free; downloads use paid credits. `STL · OBJ · GLB`
 
 ## 📷 3D Scanning
 
