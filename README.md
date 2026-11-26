@@ -4,7 +4,7 @@
 
 🌐 **Browse with search and filters:** https://syntaxslicer.github.io/3d-print-toolbox/
 
-**136 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
+**137 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
 
 ## Contents
 
@@ -181,6 +181,7 @@
 ## 🧵 Filament & Costs
 
 - **[Spoolman](https://github.com/Donkie/Spoolman)** 🆓 🔓 — Self-hosted spool inventory that tracks remaining filament per spool and syncs usage from Klipper/Moonraker and OctoPrint.
+- **[3DPrintIO](https://3dprintio.eu/en)** 🆓 🌐 🔑 — Web app for filament inventory, spool tracking, print history, cost calculations, calibration records and QR spool labels. Currently free with an account.
 - **[FilaMan](https://github.com/ManuelW77/Filaman)** 🆓 🔓 — ESP32 + NFC + load cell filament manager: weighs spools, reads/writes NFC tags and syncs with Spoolman and Bambu printers.
 - **[SpoolmanScale](https://github.com/Niko11111/SpoolmanScale)** 🆓 🔓 — DIY touchscreen spool scale (ESP32-S3, PN532 NFC, NAU7802) that shows remaining filament and syncs with Spoolman, FilaMan or BamBuddy. Around €50–60 in parts.
 - **[Open Filament Database](https://openfilamentdatabase.org/)** 🆓 🔓 🌐 — Community-maintained, MIT-licensed database of filament brands, products and stores with a public API — a neutral data source for apps and spool managers.
